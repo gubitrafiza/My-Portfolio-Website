@@ -1,2 +1,2 @@
 # My website project
-sample website repo
+This is a personal website showcasing information about myself, my coding projects, and my interests.
